@@ -52,8 +52,4 @@ This project builds a spam filter powered by machine learning. It learns from pa
 
 This solution proves how well-chosen features, smart model selection, and solid validation techniques can lead to real, usable tools that make digital communication safer.
 
----
 
-## Author
-
-- **Ojas Kumar Singh**
