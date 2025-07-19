@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="spam-detector-overview" src="https://github.com/user-attachments/assets/63352a01-ea9b-4be0-bccf-2cf125aeb1c2" /><img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2025, 09_02_40 PM" src="https://github.com/user-attachments/assets/6ba92e1e-ddc4-4d4a-95f8-8e0ad88e5ff8" /># Email Spam Detection with Machine Learning
+<img width="1536" height="1024" alt="spam-detector-overview" src="https://github.com/user-attachments/assets/6ba92e1e-ddc4-4d4a-95f8-8e0ad88e5ff8" /># Email Spam Detection with Machine Learning
 
 
 ![Overview]()
