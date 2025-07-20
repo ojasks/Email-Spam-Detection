@@ -1,6 +1,6 @@
-<img width="1536" height="1024" alt="spam-detector-overview" src="https://github.com/user-attachments/assets/6ba92e1e-ddc4-4d4a-95f8-8e0ad88e5ff8" /># Email Spam Detection with Machine Learning
+# Email Spam Detection with Machine Learning
 
-
+<img width="1536" height="1024" alt="spam-detector-overview" src="https://github.com/user-attachments/assets/6ba92e1e-ddc4-4d4a-95f8-8e0ad88e5ff8" />
 ---
 
 ## What’s the Problem?
